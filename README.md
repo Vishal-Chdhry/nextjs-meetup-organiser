@@ -1,1 +1,3 @@
-# nextjs-meetup-organiser
+# NextJS Meetup Organiser
+
+Meetup organiser made using NextJS
